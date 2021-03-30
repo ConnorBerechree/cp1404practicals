@@ -9,7 +9,9 @@
 #9. numbers = [3, 1, 4, 1, 5, 9, 6, 5, 3]
 
 # python expressions
-#1.
-#2.
-#3.
-#4.
+#1. numbers[0:'ten'] slice indices must be integers or None or have an __index__ method
+#2. numbers.append(1)
+#3. numbers[2:]
+#4. for number in numbers:
+#       if number == 9:
+#           print('True')
