@@ -10,7 +10,7 @@
 #     print(i, end=' ')
 #     print()
 
-# rows = int(input("Number of Rows: "))
-# for i in range(rows + 1):
-#     print(i * '*', end=' ')
-#     print('')
+rows = int(input("Number of Rows: "))
+for i in range(rows + 1):
+    print(i * '*', end=' ')
+    print('')
